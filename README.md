@@ -11,8 +11,8 @@
 - 🌱 Lifelong learner, always eager to stay on the cutting edge of tech.
 
 ## ⚙️ My Skill Set
-- Front-end Development (HTML, CSS, JavaScript, React, Angular, Tailwind CSS, Astro)
-- Back-end Development (Node.js, Express.js, NestJS)
+- Front-end Development (JavaScript, Typescript, React, Angular, Vue, Nuxt, Tailwind CSS, Astro)
+- Back-end Development (Node.js, Express.js, NestJS, Trpc)
 - Databases (MongoDB, PostgreSQL, Elasticsearch)
 - Containerization (Docker)
 - Version Control (Git)
