@@ -29,5 +29,4 @@
 - 💬 Feel free to explore my repositories.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman-nadeem22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)          
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/salman-nadeem22)
 
